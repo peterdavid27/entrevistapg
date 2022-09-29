@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\refint\Dominio.dll
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\bin\Debug\net5.0\Dominio.runtimeconfig.json
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\bin\Debug\net5.0\Dominio.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CRUDVaxi\Dominio\obj\Debug\net5.0\Dominio.genruntimeconfig.cache
